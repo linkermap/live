@@ -1,5 +1,123 @@
 [
-  {},
-  {},
-  {}
+  {
+    "id": "LK-1986-UKR-001",
+    "datetime": "1986-04-26T01:23:47Z",
+    "country": "Ukraine",
+    "city": "Pripyat",
+    "latitude": 51.4042,
+    "longitude": 30.0562,
+    "linker_type": "UNKNOWN",
+    "linker_density": 87,
+    "description": "Multiple stationary figures reported near the exclusion zone. Witness accounts contain conflicting descriptions."
+  },
+  {
+    "id": "LK-1986-UKR-002",
+    "datetime": "1986-04-26T04:11:09Z",
+    "country": "Ukraine",
+    "city": "Chernobyl",
+    "latitude": 51.2763,
+    "longitude": 30.2219,
+    "linker_type": "TYPE-01",
+    "linker_density": 94,
+    "description": "Unidentified movement recorded along the northern perimeter. No corresponding human activity was found."
+  },
+  {
+    "id": "LK-1986-UKR-003",
+    "datetime": "1986-04-27T21:44:32Z",
+    "country": "Ukraine",
+    "city": "Pripyat",
+    "latitude": 51.4042,
+    "longitude": 30.0562,
+    "linker_type": "TYPE-01",
+    "linker_density": 91,
+    "description": "Observation equipment recorded repeated movement between abandoned residential buildings."
+  },
+  {
+    "id": "LK-2001-USA-001",
+    "datetime": "2001-09-11T13:39:44Z",
+    "country": "United States",
+    "city": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "linker_type": "UNKNOWN",
+    "linker_density": 38,
+    "description": "Low-confidence visual reports from multiple independent sources."
+  },
+  {
+    "id": "LK-2004-IDN-001",
+    "datetime": "2004-12-26T07:58:31Z",
+    "country": "Indonesia",
+    "city": "Banda Aceh",
+    "latitude": 5.5483,
+    "longitude": 95.3238,
+    "linker_type": "UNKNOWN",
+    "linker_density": 71,
+    "description": "Reports of figures standing motionless along the shoreline immediately before the event."
+  },
+  {
+    "id": "LK-2004-THA-001",
+    "datetime": "2004-12-26T08:03:17Z",
+    "country": "Thailand",
+    "city": "Phuket",
+    "latitude": 7.8804,
+    "longitude": 98.3923,
+    "linker_type": "TYPE-02",
+    "linker_density": 59,
+    "description": "Several unidentified figures observed on the shoreline. Video evidence was recovered but later corrupted."
+  },
+  {
+    "id": "LK-2011-JPN-001",
+    "datetime": "2011-03-11T05:46:12Z",
+    "country": "Japan",
+    "city": "Sendai",
+    "latitude": 38.2682,
+    "longitude": 140.8694,
+    "linker_type": "TYPE-02",
+    "linker_density": 64,
+    "description": "Several anomalous silhouettes observed moving inland. Recording quality insufficient for identification."
+  },
+  {
+    "id": "LK-2011-JPN-002",
+    "datetime": "2011-03-11T06:18:51Z",
+    "country": "Japan",
+    "city": "Fukushima",
+    "latitude": 37.7608,
+    "longitude": 140.4747,
+    "linker_type": "TYPE-03",
+    "linker_density": 82,
+    "description": "Thermal imaging indicates multiple stationary objects in an area with no registered personnel."
+  },
+  {
+    "id": "LK-2019-AUS-001",
+    "datetime": "2019-11-21T02:17:41Z",
+    "country": "Australia",
+    "city": "Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "linker_type": "TYPE-03",
+    "linker_density": 27,
+    "description": "A single figure remained motionless beside a closed road for approximately eleven minutes."
+  },
+  {
+    "id": "LK-2020-AUS-001",
+    "datetime": "2020-01-04T19:27:03Z",
+    "country": "Australia",
+    "city": "Canberra",
+    "latitude": -35.2809,
+    "longitude": 149.13,
+    "linker_type": "TYPE-03",
+    "linker_density": 23,
+    "description": "Three figures observed near an evacuation route. Subjects disappeared before responders arrived."
+  },
+  {
+    "id": "LK-2020-USA-001",
+    "datetime": "2020-08-17T04:31:29Z",
+    "country": "United States",
+    "city": "San Francisco",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "linker_type": "UNKNOWN",
+    "linker_density": 16,
+    "description": "Unverified reports of a dark silhouette visible between buildings during a period of widespread power interruption."
+  }
 ]
